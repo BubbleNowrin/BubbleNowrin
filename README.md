@@ -3,6 +3,8 @@
 # Hi there 👋, I'm Nowrin Islam Mim
 ### Front-End Developer || Passionate for Web Development 
 
+![Profile views](https://gpvc.arturio.dev/BubbleNowrin) 
+
 I'm a Front-End Developer, passionate about making user-friendly web applications, with the capability to grasp new
 concepts and cope up with the speedily
 changing technologies.
@@ -29,4 +31,4 @@ Skills: REACT / JS / HTML / CSS/ Bootstrap/ Tailwind CSS/ Node/ Express/ MongoDB
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=BubbleNowrin)  
 
-![Profile views](https://gpvc.arturio.dev/BubbleNowrin)  
+ 

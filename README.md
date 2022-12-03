@@ -1,7 +1,8 @@
 
+(https://media-exp1.licdn.com/dms/image/D5616AQH1l40hXlj7LA/profile-displaybackgroundimage-shrink_350_1400/0/1669885236076?e=1675296000&v=beta&t=yPY_olCjmijP7Gsa6Im8mdRrxaA2-WiJl6V2mYKf8fA)
 # Hi there 👋, I'm Nowrin Islam Mim
 #### Front-End Developer || Passionate for Web Development 
-![Front-End Developer || Passionate for Web Development ](https://media-exp1.licdn.com/dms/image/D5616AQH1l40hXlj7LA/profile-displaybackgroundimage-shrink_350_1400/0/1669885236076?e=1675296000&v=beta&t=yPY_olCjmijP7Gsa6Im8mdRrxaA2-WiJl6V2mYKf8fA)
+![Front-End Developer || Passionate for Web Development ]
 
 I'm a Front-End Developer, passionate about making user-friendly web applications, with the capability to grasp new
 concepts and cope up with the speedily

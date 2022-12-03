@@ -25,8 +25,7 @@ changing technologies.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BubbleNowrin)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BubbleNowrin&show_icons=true&count_private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/BubbleNowrin)  
+  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=BubbleNowrin)  
 

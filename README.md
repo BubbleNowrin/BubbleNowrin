@@ -9,7 +9,8 @@ I'm a Front-End Developer, passionate about making user-friendly web application
 concepts and cope up with the speedily
 changing technologies.
 
-Skills: REACT / JS / HTML / CSS/ Bootstrap/ Tailwind CSS/ Node/ Express/ MongoDB/ Firebase
+Skills:
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.googl
  
 - 🌱 I’m currently learning TypeScript, Redux, React-Native 
 - 💬 Ask me about Web development, Programming, React 

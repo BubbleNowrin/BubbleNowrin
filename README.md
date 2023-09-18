@@ -1,6 +1,6 @@
 
 
-# Hi there 👋, I'm Nowrin Islam Mim
+# Hi there 👋
 ### Front-End Developer || Passionate for Web Development 
 
 I'm a Front-End Developer, passionate about making user-friendly web applications, with the capability to grasp new
